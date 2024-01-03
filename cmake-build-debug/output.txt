@@ -1,0 +1,13 @@
+[A]
+alex: 2
+[C]
+christian: 2
+[E]
+eric: 2
+[J]
+jake: 2
+james: 2
+[M]
+mark: 3, 2, 2, 2, 1
+matan: 2
+michael: 1

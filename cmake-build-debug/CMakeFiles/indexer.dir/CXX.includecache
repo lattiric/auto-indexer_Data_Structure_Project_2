@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/DSString.h
+iostream
+-
+cstring
+-
+functional
+-
+
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/DSVector.h
+iostream
+-
+functional
+-
+
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/Page.cpp
+DSString.h
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/DSString.h
+map
+-
+Page.h
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/Page.h
+
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/Page.h
+map
+-
+DSVector.h
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/DSVector.h
+DSString.h
+/Users/ricklattin/Documents/GitHub/21s-pa02-lattiric/DSString.h
+

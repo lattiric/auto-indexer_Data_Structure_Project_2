@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/indexer.dir/main.cpp.o CMakeFiles/indexer.dir/Page.cpp.o CMakeFiles/indexer.dir/Test.cpp.o CMakeFiles/indexer.dir/DSString.cpp.o CMakeFiles/indexer.dir/AnalyzeText.cpp.o  -o indexer 
